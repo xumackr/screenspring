@@ -28,6 +28,7 @@ public class Episodio {
         }
     }
 
+
     public Integer getTemporada() {
         return temporada;
     }
